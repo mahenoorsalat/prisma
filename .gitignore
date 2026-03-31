@@ -47,3 +47,4 @@ junit.xml
 package.copy.json
 
 *.tgz
+config.bat
